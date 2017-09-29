@@ -15,6 +15,7 @@ namespace GiTMergeBranch
         private void ChangeInMaster()
         {
 
+            //changes in master & BranchA
         }
     }
 }
