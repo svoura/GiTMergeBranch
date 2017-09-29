@@ -10,6 +10,8 @@ namespace GiTMergeBranch
     {
         static void Main(string[] args)
         {
+            //I make changes
+            //Changes
         }
     }
 }
