@@ -12,5 +12,9 @@ namespace GiTMergeBranch
         {
             //comments!
         }
+        private void ChangeInMaster()
+        {
+
+        }
     }
 }
