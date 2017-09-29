@@ -10,6 +10,7 @@ namespace GiTMergeBranch
     {
         static void Main(string[] args)
         {
+            //comments!
         }
     }
 }
